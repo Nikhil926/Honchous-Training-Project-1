@@ -8,21 +8,6 @@ body {
     box-sizing: border-box;
   }
   
-  .bg-image {
-    
-    background-image: url("background.jpg");
-    
-    /* Add the blur effect */
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
-    
-    height: 100%; 
-    
-    
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
 
   img {
       height: 200px;
@@ -98,3 +83,4 @@ h4{
     color: black;
     text-align:left;
 }
+.
